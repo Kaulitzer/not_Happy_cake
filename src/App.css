@@ -38,5 +38,12 @@ a:hover {
 }
 
 .logo {
-  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  width: 32px; 
+  height: 32px; 
+  margin-right: 90vh; 
 }
